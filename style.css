@@ -1,0 +1,22 @@
+body
+{
+
+background-color: lightblue;
+}
+#book
+{
+    margin-left: 50%;
+width: 50% ;
+height: 50%;
+}
+.copy_right_footer
+{
+box-shadow: 5px 5px 5px black;
+width: 100%;
+position: fixed;
+color: black ;
+background-color: grey ;
+text-align: center;
+line-height: 3;
+bottom: 0;
+}
